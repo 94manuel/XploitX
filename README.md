@@ -38,10 +38,10 @@ A cloud based Android Monitoring Tool, powered by NodeJS
     - `sudo npm install pm2 -g`
 
 4. Clone the repo
-    - `git clone https://github.com/XploitWizer/XploitSPY.git`
+    - `git clone https://github.com/94manuel/XploitX.git`
     
 5. Go to server directory
-   - `cd XploitSPY/server/`
+   - `cd XploitX/server/`
 
 5. In the server directory, run these commands
     - `npm install` <- install dependencies
@@ -56,13 +56,13 @@ A cloud based Android Monitoring Tool, powered by NodeJS
      - `Username : admin`
      - `Password : password`
     
-It's recommended to run XploitSPY behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
+It's recommended to run XploitX behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 
 ## Buy us a Coffee
    Bitcoin : 
    
-   Paypal : https://paypal.me/raomk
+   Paypal : https://paypal.me/
 
 
 
